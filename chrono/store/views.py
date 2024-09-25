@@ -14,6 +14,7 @@ import json
 
 
 
+
 def index(request):
     """
     Renders the 'index.html' template and returns the rendered HTML as a response.
