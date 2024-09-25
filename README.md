@@ -25,7 +25,7 @@ Chronosphere is an e-commerce platform specializing in the sale of high-quality 
 
 ## Installation
 1. Clone the repo:
-`git clone git@github.com:kariukikinyanjui/Chronosphere.git`
+`git clone git@github.com:Gaithi57/Chronosphere.git`
 
 2. Install the required dependencies:
 `pip install -r requirements.txt`
